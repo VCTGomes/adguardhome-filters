@@ -1,3 +1,4 @@
+#principais
 @@||*.itau.com.br^$important
 @@||*.nubank.com.br^$important
 @@||*.bradesco.com.br^$important
@@ -7,6 +8,7 @@
 @@||*.banconeon.com.br^$important
 @@||*.bancointer.com.br^$important
 @@||*.bb.com.br^$important
+#gerado por AI
 @@||*.bancooriginal.com^$important
 @@||*.banrisul.com.br^$important
 @@||*.sicredi.com.br^$important
