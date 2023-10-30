@@ -8,6 +8,7 @@
 @@||*.banconeon.com.br^$important
 @@||*.bancointer.com.br^$important
 @@||*.bb.com.br^$important
+@@||*.caixa.gov.br^$important
 #gerado por AI
 @@||*.bancooriginal.com^$important
 @@||*.banrisul.com.br^$important
@@ -248,3 +249,15 @@
 @@||*.bancodobrasil.cc^$important
 @@||*.bancodobrasil.us^$important
 @@||*.bancodobrasil.me^$important
+#adicionais
+@@||*.santander.com^$important
+@@||*.hsbc.com^$important
+@@||*.citibank.com^$important
+@@||*.wellsfargo.com^$important
+@@||*.bankofamerica.com^$important
+@@||*.jpmorganchase.com^$important
+@@||*.goldmansachs.com^$important
+@@||*.barclays.com^$important
+@@||*.bnpparibas.com^$important
+@@||*.deutschebank.com^$important
+
